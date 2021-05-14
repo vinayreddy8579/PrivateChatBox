@@ -1,6 +1,19 @@
 # PrivateChatBox
 This repository is for private chat box application
 
+The project can be deployed on Local Host by Downloading npm libraries and Visual Studio:
+
+The following commands would be helpful to deploy it:
+
+-> cd client
+//To open the client folder path
+
+->npm start
+// To start the deployment server
+
+After executing these commands in Visual Studio the local host https://localhost:3000/ will be opened at Port:3000
+
+
 PROJECT NAME: PRIVATE CHAT BOX
 
 **PROJECT DETAIL DESCRIPTION**
